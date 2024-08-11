@@ -11,7 +11,7 @@
 </p>
 
 
-<h1>Gerador de QRCode.</h1>
+<h1>Gerador de QR-Code.</h1>
 
 # 💻 Projeto:
 <p>Projeto básico para iniciantes. Utilizando o consumo de uma API para a realização deste projeto. </p>
